@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+body{
+    text-align: center;
+    background-color: purple;
+}
+h1{
+    display: inline-block;
+    margin: 20px;
+    font-size: 50px;
+    color: yellow;
+    margin-top: 100px;
+}
+
+.foto{
+    display: inline-block;
+
+}
